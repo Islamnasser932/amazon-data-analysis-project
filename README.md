@@ -1,2 +1,5 @@
 # Data-Analysis
-this project analysze amazon data that customer reivew the product that they bought it 
+ ##- My analysis about how to get information from the customer’s comment on the brand that they bought from Amazon website 
+ ##- Loading data from Kaggle Site 
+ ##- Using PowerBi and Jupyter Notebook 
+
